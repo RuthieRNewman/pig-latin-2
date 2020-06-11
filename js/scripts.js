@@ -16,7 +16,12 @@ $(document).ready(function() {
         $('#userString').val(singleLetterWordString);
 
       } else if (userArray === "A", "a","E","e","I","i","O","o","U","u"){
-        console.log(true)
+         let vowelFind = []; 
+        userArray.forEach(userString(element){
+        
+
+          });
+  
       }
     } 
     });
